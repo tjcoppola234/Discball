@@ -1,0 +1,77 @@
+\documentclass[10pt]{article}
+
+\usepackage[a4paper, left=2cm, right=2cm]{geometry} % A4 paper size and thin margins
+\usepackage{xcolor} % Required for specifying custom colours
+\definecolor{grey}{rgb}{0.9,0.9,0.9} % Colour of the box surrounding the title
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Output font encoding for international characters
+\usepackage[sfdefault]{ClearSans} % Use the Clear Sans font (sans serif)
+%\usepackage{XCharter} % Use the XCharter font (serif)
+\usepackage{graphicx}
+\graphicspath{ {../assets/} }
+
+\usepackage{amsmath}
+\usepackage{geometry}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\title{Discball Official Rulebook}
+\author{Theo Coppola}
+
+\begin{document}
+    % Title page template by: Frits Wenneker and Vel (vel@latextemplates.com)
+    \begin{titlepage} % Suppresses displaying the page number on the title page and the subsequent page counts as page 1
+
+        %	Grey title box
+        \colorbox{grey}{
+            \parbox[t]{0.93\textwidth}{ % Outer full width box
+                \parbox[t]{0.91\textwidth}{ % Inner box for inner right text margin
+                    \raggedleft% Right align the text
+                    \fontsize{50pt}{80pt}\selectfont % Title font size, the first argument is the font size and the second is the line spacing, adjust depending on title length
+                    \vspace{0.7cm} % Space between the start of the title and the top of the grey box
+                    
+                    Discball:\\
+                    Official Rulebook\\
+                    
+                    \vspace{0.7cm} % Space between the end of the title and the bottom of the grey box
+                }
+            }
+        }
+        
+        \vfill
+        
+        \begin{center}
+            \includegraphics{title_image}
+        \end{center}
+        
+        \vfill % Space between the title box and author information
+        
+        %	Author name and information
+        \parbox[t]{0.93\textwidth}{ % Box to inset this section slightly
+            \raggedleft% Right align the text
+            \large% Increase the font size
+            {\Large Theo Coppola}\\[4pt] % Extra space after name
+            Stamford, CT\\[4pt] % Extra space before URL
+            \texttt{\href{https://github.com/tjcoppola234/Discball}{GitHub}}\\
+            
+            \hfill\rule{0.2\linewidth}{1pt}% Horizontal line, first argument width, second thickness
+        }
+        
+    \end{titlepage}
+
+    \renewcommand*\contentsname{Table of Contents}
+    \tableofcontents
+
+    \newpage
+
+    \section{Introduction}
+    \section{The Field}
+    \section{Basic Rules}
+    \section{Advanced Rules}
+\end{document}
