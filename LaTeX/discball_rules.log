@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  26 SEP 2022 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  26 SEP 2022 20:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,6 +175,13 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
+) (c:/texlive/2022/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count275
+\float@exts=\toks27
+\float@box=\box53
+\@float@everytoks=\toks28
+\@floatcapt=\box54
 ) (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
  (c:/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -208,11 +215,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (c:/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count275
+\c@section@level=\count276
 )
 \@linkdim=\dimen158
-\Hy@linkcounter=\count276
-\Hy@pagecounter=\count277
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
  (c:/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -222,7 +229,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (c:/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count278
+\Hy@SavedSpaceFactor=\count279
  (c:/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -235,7 +242,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4408.
-\c@Hy@tempcnt=\count279
+\c@Hy@tempcnt=\count280
  (c:/texlive/2022/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -247,7 +254,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (c:/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count280
+\Fld@menulength=\count281
 \Field@Width=\dimen160
 \Fld@charsize=\dimen161
 Package hyperref Info: Hyper figures OFF on input line 6024.
@@ -261,9 +268,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6054.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count281
-\c@Item=\count282
-\c@Hfootnote=\count283
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (c:/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -272,8 +279,8 @@ File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count284
-\c@bookmark@seq@number=\count285
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
  (c:/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (c:/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -283,40 +290,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip52
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 22.
-LaTeX Font Info:    Trying to load font information for T1+ClearSans-TLF on input line 27.
+Package hyperref Info: Option `colorlinks' set `true' on input line 23.
+LaTeX Font Info:    Trying to load font information for T1+ClearSans-TLF on input line 28.
  (c:/texlive/2022/texmf-dist/tex/latex/clearsans/T1ClearSans-TLF.fd
 File: T1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for T1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 27.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
+(Font)              scaled to size 10.0pt on input line 28.
  (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count286
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count287
+\l__pdf_internal_box=\box55
 ) (./discball_rules.aux)
 \openout1 = `discball_rules.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -354,57 +361,57 @@ LaTeX Font Info:    ... okay on input line 27.
 
 (c:/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count287
+\scratchcounter=\count288
 \scratchdimen=\dimen162
-\scratchbox=\box54
-\nofMPsegments=\count288
-\nofMParguments=\count289
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count290
+\scratchbox=\box56
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count291
 \MPscratchDim=\dimen163
-\MPnumerator=\count291
-\makeMPintoPDFobject=\count292
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks30
 ) (c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\c@mv@tabular=\count293
-\c@mv@boldtabular=\count294
-Package hyperref Info: Link coloring ON on input line 27.
+\c@mv@tabular=\count294
+\c@mv@boldtabular=\count295
+Package hyperref Info: Link coloring ON on input line 28.
  (./discball_rules.out) (./discball_rules.out)
 \@outlinefile=\write3
 \openout3 = `discball_rules.out'.
 
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <50> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 45.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 50.0pt on input line 45.
-<../assets//title_image.png, id=40, 355.3275pt x 191.9672pt>
+(Font)              scaled to size 50.0pt on input line 46.
+<../assets//title_image.png, id=52, 355.3275pt x 191.9672pt>
 File: ../assets//title_image.png Graphic file (type png)
 <use ../assets//title_image.png>
-Package pdftex.def Info: ../assets//title_image.png  used on input line 50.
+Package pdftex.def Info: ../assets//title_image.png  used on input line 51.
 (pdftex.def)             Requested size: 355.32661pt x 191.96672pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 64.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 64.
+(Font)              scaled to size 12.0pt on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 64.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 64.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 64.
+(Font)              scaled to size 14.4pt on input line 65.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 65.
  (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../assets//title_image.png>]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 69.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 69.
+(Font)              scaled to size 14.4pt on input line 70.
  (./discball_rules.toc
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not available
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 1.
@@ -418,49 +425,49 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.71     \newpage
+l.72     \newpage
                   [1]
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 77.
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 79.
  (c:/texlive/2022/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not available
-(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 77.
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 79.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 77.
-<../assets//field/field.png, id=63, 726.715pt x 577.15625pt>
+(Font)              scaled to size 10.0pt on input line 79.
+<../assets//field/field.png, id=78, 726.715pt x 577.15625pt>
 File: ../assets//field/field.png Graphic file (type png)
 <use ../assets//field/field.png>
-Package pdftex.def Info: ../assets//field/field.png  used on input line 87.
+Package pdftex.def Info: ../assets//field/field.png  used on input line 90.
 (pdftex.def)             Requested size: 338.58632pt x 268.91208pt.
  [2 <../assets//field/field.png>]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 102.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 102.
+(Font)              scaled to size 12.0pt on input line 106.
  [3]
-<../assets//field/field_points.png, id=86, 726.715pt x 577.15625pt>
+<../assets//field/field_points.png, id=98, 726.715pt x 577.15625pt>
 File: ../assets//field/field_points.png Graphic file (type png)
 <use ../assets//field/field_points.png>
-Package pdftex.def Info: ../assets//field/field_points.png  used on input line 145.
-(pdftex.def)             Requested size: 338.58632pt x 268.91208pt.
- [4 <../assets//field/field_points.png>] [5] (./discball_rules.aux)
+Package pdftex.def Info: ../assets//field/field_points.png  used on input line 148.
+(pdftex.def)             Requested size: 362.77264pt x 288.11946pt.
+ [4] [5 <../assets//field/field_points.png>] [6] (./discball_rules.aux)
 Package rerunfilecheck Info: File `discball_rules.out' has not changed.
-(rerunfilecheck)             Checksum: 04F1272959434EFD19962B0290161F90;1008.
+(rerunfilecheck)             Checksum: 43CAC7FEC5BF5C53E532B185307FDBD3;1503.
  ) 
 Here is how much of TeX's memory you used:
- 10720 strings out of 475075
- 169722 string characters out of 5783001
- 522700 words of memory out of 5000000
- 31922 multiletter control sequences out of 15000+600000
+ 10800 strings out of 475075
+ 171017 string characters out of 5783001
+ 523064 words of memory out of 5000000
+ 31993 multiletter control sequences out of 15000+600000
  510756 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,5n,77p,472b,548s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,77p,569b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on discball_rules.pdf (6 pages, 179826 bytes).
+Output written on discball_rules.pdf (7 pages, 181710 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 158 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
+ 112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

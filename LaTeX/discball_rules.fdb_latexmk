@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1664227445 "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" "discball_rules.pdf" "discball_rules" 1664227447
+["pdflatex"] 1664239864 "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" "discball_rules.pdf" "discball_rules" 1664239866
   "../assets//field/field.png" 1664132186 22510 8cd537e7bebbb07888d3b2bee58fc17d ""
   "../assets//field/field_points.png" 1664135749 30758 e5003109bae26c32824d81ddcaf4b7e7 ""
   "../assets//title_image.png" 1664056377 90028 485596ea6cec7cd2076c4f786d5290cf ""
-  "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" 1664227443 9666 02721b79686e9e96e64938451bc969ec ""
+  "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" 1664239865 10749 2a633b858508628e69d235105b08d535 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc" 1663956110 3317 49c09c087ace8f807c62d66ec2c69191 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc" 1663956110 3006 bee092328c2beafee1f162d4e38aad34 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1663956158 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -62,6 +62,7 @@
   "c:/texlive/2022/texmf-dist/tex/latex/clearsans/T1ClearSans-TLF.fd" 1663956110 3031 f2e5cde66bd5452f95c9727e172eee40 ""
   "c:/texlive/2022/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd" 1663956110 3067 e13693323db9167fc12f2eb632f80141 ""
   "c:/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1663957065 13886 d1306dcf79a944f6988e688c1785f9ce ""
+  "c:/texlive/2022/texmf-dist/tex/latex/float/float.sty" 1663957403 6749 16d2656a1984957e674b149555f1ea1d ""
   "c:/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty" 1663957445 14310 41fdb35c51be792ddf00696848d0cfef ""
   "c:/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1663957599 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1663957732 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
@@ -93,10 +94,10 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1663962425 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663962582 3058675 ec42960c8edae72cdbcb0dbb8d9c372e ""
   "c:/texlive/2022/texmf.cnf" 1663962402 713 e69b156964470283e0530f5060668171 ""
-  "discball_rules.aux" 1664227447 1568 f7b99c7f7f36bf72ed7a1c1b2b34f77f "pdflatex"
-  "discball_rules.out" 1664227447 1008 04f1272959434efd19962b0290161f90 "pdflatex"
-  "discball_rules.tex" 1664227443 9666 02721b79686e9e96e64938451bc969ec ""
-  "discball_rules.toc" 1664227447 645 0967eb94c75fbb62364ac557695ac9f3 "pdflatex"
+  "discball_rules.aux" 1664239865 2189 4163e5c8057866f2d7921ec89fa253eb "pdflatex"
+  "discball_rules.out" 1664239865 1503 43cac7fec5bf5c53e532b185307fdbd3 "pdflatex"
+  "discball_rules.tex" 1664239865 10749 2a633b858508628e69d235105b08d535 ""
+  "discball_rules.toc" 1664239865 927 c6da1c5dc839ded6b781986b1b76efbf "pdflatex"
   (generated)
   "discball_rules.aux"
   "discball_rules.log"
