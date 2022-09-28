@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  26 SEP 2022 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  27 SEP 2022 15:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -389,29 +389,29 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <50> not available
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 46.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 50.0pt on input line 46.
-<../assets//title_image.png, id=52, 355.3275pt x 191.9672pt>
+<../assets//title_image.png, id=48, 355.3275pt x 191.9672pt>
 File: ../assets//title_image.png Graphic file (type png)
 <use ../assets//title_image.png>
 Package pdftex.def Info: ../assets//title_image.png  used on input line 51.
 (pdftex.def)             Requested size: 355.32661pt x 191.96672pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 65.
+(Font)              scaled to size 12.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 65.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 65.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 65.
+(Font)              scaled to size 14.4pt on input line 66.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 66.
  (c:/texlive/2022/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1
 
 {c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../assets//title_image.png>]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 70.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 71.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 70.
+(Font)              scaled to size 14.4pt on input line 71.
  (./discball_rules.toc
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not available
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 1.
@@ -425,49 +425,49 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72     \newpage
-                  [1]
-LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 79.
+l.73 \newpage
+              [1]
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 80.
  (c:/texlive/2022/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
 File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearSans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not available
-(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 79.
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 80.
 LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 79.
-<../assets//field/field.png, id=78, 726.715pt x 577.15625pt>
+(Font)              scaled to size 10.0pt on input line 80.
+<../assets//field/field.png, id=75, 726.715pt x 577.15625pt>
 File: ../assets//field/field.png Graphic file (type png)
 <use ../assets//field/field.png>
-Package pdftex.def Info: ../assets//field/field.png  used on input line 90.
+Package pdftex.def Info: ../assets//field/field.png  used on input line 91.
 (pdftex.def)             Requested size: 338.58632pt x 268.91208pt.
  [2 <../assets//field/field.png>]
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <12> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 106.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 107.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 12.0pt on input line 106.
+(Font)              scaled to size 12.0pt on input line 107.
  [3]
-<../assets//field/field_points.png, id=98, 726.715pt x 577.15625pt>
+<../assets//field/field_points.png, id=96, 726.715pt x 577.15625pt>
 File: ../assets//field/field_points.png Graphic file (type png)
 <use ../assets//field/field_points.png>
-Package pdftex.def Info: ../assets//field/field_points.png  used on input line 148.
+Package pdftex.def Info: ../assets//field/field_points.png  used on input line 160.
 (pdftex.def)             Requested size: 362.77264pt x 288.11946pt.
  [4] [5 <../assets//field/field_points.png>] [6] (./discball_rules.aux)
 Package rerunfilecheck Info: File `discball_rules.out' has not changed.
-(rerunfilecheck)             Checksum: 43CAC7FEC5BF5C53E532B185307FDBD3;1503.
+(rerunfilecheck)             Checksum: 56B4ABA1CA41445A1F18D9AD1867FDC1;1280.
  ) 
 Here is how much of TeX's memory you used:
- 10800 strings out of 475075
- 171017 string characters out of 5783001
- 523064 words of memory out of 5000000
- 31993 multiletter control sequences out of 15000+600000
+ 10798 strings out of 475075
+ 170957 string characters out of 5783001
+ 524064 words of memory out of 5000000
+ 31992 multiletter control sequences out of 15000+600000
  510756 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,569b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,77p,572b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on discball_rules.pdf (7 pages, 181710 bytes).
+Output written on discball_rules.pdf (7 pages, 186316 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 132 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 

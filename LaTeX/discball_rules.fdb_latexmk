@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1664239864 "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" "discball_rules.pdf" "discball_rules" 1664239866
+["pdflatex"] 1664308303 "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" "discball_rules.pdf" "discball_rules" 1664308305
   "../assets//field/field.png" 1664132186 22510 8cd537e7bebbb07888d3b2bee58fc17d ""
   "../assets//field/field_points.png" 1664135749 30758 e5003109bae26c32824d81ddcaf4b7e7 ""
   "../assets//title_image.png" 1664056377 90028 485596ea6cec7cd2076c4f786d5290cf ""
-  "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" 1664239865 10749 2a633b858508628e69d235105b08d535 ""
+  "c:/Users/tjcsm/Desktop/Coding_Projects/Discball/LaTeX/discball_rules.tex" 1664308298 11076 042bcfe1f9f9c991a3b7538fda09cd1e ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc" 1663956110 3317 49c09c087ace8f807c62d66ec2c69191 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc" 1663956110 3006 bee092328c2beafee1f162d4e38aad34 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1663956158 2971 def0b6c1f0b107b3b936def894055589 ""
@@ -94,10 +94,10 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1663962425 4635069 7677ee69604aae14ed48b153c111a7f7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663962582 3058675 ec42960c8edae72cdbcb0dbb8d9c372e ""
   "c:/texlive/2022/texmf.cnf" 1663962402 713 e69b156964470283e0530f5060668171 ""
-  "discball_rules.aux" 1664239865 2189 4163e5c8057866f2d7921ec89fa253eb "pdflatex"
-  "discball_rules.out" 1664239865 1503 43cac7fec5bf5c53e532b185307fdbd3 "pdflatex"
-  "discball_rules.tex" 1664239865 10749 2a633b858508628e69d235105b08d535 ""
-  "discball_rules.toc" 1664239865 927 c6da1c5dc839ded6b781986b1b76efbf "pdflatex"
+  "discball_rules.aux" 1664308305 2028 8399520772e4b25904370be036058bfa "pdflatex"
+  "discball_rules.out" 1664308305 1280 56b4aba1ca41445a1f18d9ad1867fdc1 "pdflatex"
+  "discball_rules.tex" 1664308298 11076 042bcfe1f9f9c991a3b7538fda09cd1e ""
+  "discball_rules.toc" 1664308305 807 fe0f4eeacb1f5351fbb60d78f5fb1e1c "pdflatex"
   (generated)
   "discball_rules.aux"
   "discball_rules.log"
