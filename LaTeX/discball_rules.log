@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  27 SEP 2022 15:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.23)  1 NOV 2022 19:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -445,13 +445,13 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <12> not available
 (Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 107.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 107.
- [3]
-<../assets//field/field_points.png, id=96, 726.715pt x 577.15625pt>
+ [3] [4]
+<../assets//field/field_points.png, id=106, 726.715pt x 577.15625pt>
 File: ../assets//field/field_points.png Graphic file (type png)
 <use ../assets//field/field_points.png>
-Package pdftex.def Info: ../assets//field/field_points.png  used on input line 160.
+Package pdftex.def Info: ../assets//field/field_points.png  used on input line 176.
 (pdftex.def)             Requested size: 362.77264pt x 288.11946pt.
- [4] [5 <../assets//field/field_points.png>] [6] (./discball_rules.aux)
+ [5 <../assets//field/field_points.png>] [6] (./discball_rules.aux)
 Package rerunfilecheck Info: File `discball_rules.out' has not changed.
 (rerunfilecheck)             Checksum: 56B4ABA1CA41445A1F18D9AD1867FDC1;1280.
  ) 
@@ -462,9 +462,9 @@ Here is how much of TeX's memory you used:
  31992 multiletter control sequences out of 15000+600000
  510756 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,572b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,6n,77p,572b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on discball_rules.pdf (7 pages, 186316 bytes).
+Output written on discball_rules.pdf (7 pages, 187585 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  132 compressed objects within 2 object streams
